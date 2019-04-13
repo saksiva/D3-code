@@ -13,7 +13,7 @@ showing data from a csv file
 
 <img src="https://user-images.githubusercontent.com/41472850/56082960-099c2e80-5e17-11e9-8dbd-fc120cb6baf8.png" width="200">
 
-showing data from a json file
+showing data from a json file/ api call
 
 <img src="https://user-images.githubusercontent.com/41472850/56082962-0a34c500-5e17-11e9-8f00-efbdeca6e2eb.png" width="200">
 
