@@ -28,3 +28,11 @@ line chart of an array of data
 scatter plot of all the data points
 
 <img src="https://user-images.githubusercontent.com/41472850/56082967-0acd5b80-5e17-11e9-857f-e3ffdca722ef.png" width="200">
+
+filter data my timeframe
+
+<img src="https://user-images.githubusercontent.com/41472850/56149270-11d5a480-5fa4-11e9-8e2e-669b0cfe1ca8.png" width="200">
+
+add x and y axis to chart 
+
+<img src="https://user-images.githubusercontent.com/41472850/56149277-1437fe80-5fa4-11e9-9176-b842a3170bec.png" width="200">
